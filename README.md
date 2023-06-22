@@ -1,8 +1,8 @@
 # Grupo14_Procesamiento
 <h1 align="center"> Hoteles en Valencia </h1>
 
-#### PROYECTO INTEGRADOR 2022 - PROYECTO ALFA
-#### Programación I - COHORTE 2022
+#### PROCESAMIENTO DE DATOS 
+#### COHORTE 2022
 
 #### TECNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
 
