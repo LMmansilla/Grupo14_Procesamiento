@@ -12,7 +12,8 @@
 - [Kanneman Samuel](https://github.com/samuelkanneman)
 - [Zelarayán Román ](https://github.com/romanzelararg)
 - [Mansilla Leonardo Matias ](https://github.com/LMmansilla)
-![Collage de fotos Valencia Colorido Azul](https://github.com/LMmansilla/Grupo14_Procesamiento/assets/108492765/780749d1-3b9b-4cd4-8b93-b0a8f73a5bea)
+![Hoteles Valencia  ](https://github.com/LMmansilla/Grupo14_Procesamiento/assets/108492765/aba9bc0b-a27e-48ed-bca2-02095a406890)
+
 
 **Dataset**
 https://www.kaggle.com/datasets/igmoncan/hoteles-en-valencia?select=valenciahoteles.csv
