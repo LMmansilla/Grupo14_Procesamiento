@@ -15,13 +15,9 @@
 - [Lucero Carla](https://github.com/CarlaLucerocd)
 ![Hoteles Valencia  ](https://github.com/LMmansilla/Grupo14_Procesamiento/assets/108492765/aba9bc0b-a27e-48ed-bca2-02095a406890)
 
-Origen de Datos para el Proyecto:
+### Origen de Datos para el Proyecto:
 
-Realizamos Web Scraping para extraer datos de páginas web relacionadas con la contaminación a nivel mundial.
-**Dataset**
-https://www.kaggle.com/datasets/igmoncan/hoteles-en-valencia?select=valenciahoteles.csv
-
-**Librerías utilizadas**
+### Librerías utilizadas 📋
 pandas as pd
 matplotlib.pyplot as plt
 seaborn as sns
@@ -29,7 +25,12 @@ geopandas as gpd
 heapq
 matplotlib inline
 
-**Mediante el conocimiento del cursado de Procesamiento de datos TSCDIA, realizamos:**
+## Construido con 🛠️
+
+* ([http://www.dropwizard.io/1.0.2/docs/](https://www.kaggle.com/datasets/igmoncan/hoteles-en-valencia?select=valenciahoteles.csv)) - Dataset usado
+
+
+### Mediante el conocimiento del cursado de Procesamiento de datos TSCDIA, realizamos:
 
 Creación de repositorio en GitHub.
 Desde Visual Code realizamos la creación y programación de los archivos para el proyecto.
