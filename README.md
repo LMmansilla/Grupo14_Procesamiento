@@ -12,6 +12,7 @@
 - [Kanneman Samuel](https://github.com/samuelkanneman)
 - [Zelarayán Román ](https://github.com/romanzelararg)
 - [Mansilla Leonardo Matias ](https://github.com/LMmansilla)
+- [Lucero Carla](https://github.com/CarlaLucerocd)
 ![Hoteles Valencia  ](https://github.com/LMmansilla/Grupo14_Procesamiento/assets/108492765/aba9bc0b-a27e-48ed-bca2-02095a406890)
 
 
