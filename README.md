@@ -27,7 +27,7 @@
 
 ## Construido con 🛠️
 
-* ([http://www.dropwizard.io/1.0.2/docs/](https://www.kaggle.com/datasets/igmoncan/hoteles-en-valencia?select=valenciahoteles.csv)) - Dataset usado
+* ((https://www.kaggle.com/datasets/igmoncan/hoteles-en-valencia?select=valenciahoteles.csv)) - Dataset usado
 
 
 ### Mediante el conocimiento del cursado de Procesamiento de datos TSCDIA, realizamos:
