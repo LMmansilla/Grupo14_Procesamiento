@@ -32,12 +32,23 @@ En base al dataset elegido para éste proyecto que contiene datos extraídos de 
 ### Origen de Datos para el Proyecto:
 
 ### Librerías utilizadas 📋
-* pandas as pd
-* matplotlib.pyplot as plt
-* seaborn as sns
-* geopandas as gpd
-* heapq
-* matplotlib inline
+
+* pandas as pd :  Esta librería es ampliamente utilizada para el manejo y análisis de datos en Python.
+                  Proporciona estructuras de datos y herramientas para manipular y analizar datos de manera eficiente.
+  
+* matplotlib.pyplot as plt:  Matplotlib es una librería de visualización de datos en Python.
+                             pyplot es una interfaz para crear gráficos estáticos, como gráficos de líneas, barras, dispersión, etc.
+  
+* seaborn as sns: Seaborn es otra librería de visualización de datos en Python.
+                  Proporciona una interfaz de alto nivel para crear gráficos atractivos y informativos.
+
+* geopandas as gpd: Geopandas es una extensión de la librería pandas que agrega capacidades geoespaciales.
+                    Es útil para trabajar con datos geográficos, como mapas y datos de ubicación.
+  
+* heapq: Es una librería estándar de Python que proporciona implementaciones eficientes de estructuras de datos de montículos (heap).
+  
+* matplotlib inline: Esta línea de código es comúnmente utilizada en Jupyter Notebook para mostrar gráficos en línea.
+
 
 ## Construido con 🛠️
 
