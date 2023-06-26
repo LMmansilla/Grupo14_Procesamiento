@@ -18,12 +18,12 @@
 ### Origen de Datos para el Proyecto:
 
 ### Librerías utilizadas 📋
-pandas as pd
-matplotlib.pyplot as plt
-seaborn as sns
-geopandas as gpd
-heapq
-matplotlib inline
+*pandas as pd
+*matplotlib.pyplot as plt
+*seaborn as sns
+*geopandas as gpd
+*heapq
+*matplotlib inline
 
 ## Construido con 🛠️
 
