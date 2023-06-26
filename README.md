@@ -57,9 +57,20 @@ En base al dataset elegido para éste proyecto que contiene datos extraídos de 
 
 ### Mediante el conocimiento del cursado de Procesamiento de datos TSCDIA, realizamos:
 
-* Creación de repositorio en GitHub.
+* Creación de repositorio en GitHub. https://github.com/LMmansilla/Grupo14_Procesamiento.git  
 * Desde Visual Code realizamos la creación y programación de los archivos para el proyecto.
 * Programamos incluyendo librerías para la obtención de datos de la pagina relacionada a los próximos 10 meses sobre los precios medios en fin de semana (por habitación privada y un individuo) de hoteles ubicados en la ciudad de Valencia (datos de Booking). Además, incluye también otras variables como son el número de comentarios, la valoración del hotel, el código postal o el distrito de éstos.  
-* Una vez realizada la extracción de datos se exportan a csv.
+* Una vez realizada la extracción de datos se exportan a csv laestructura adecuada, como un DataFrame en pandas.
+* se debe Revisar la estructura del dataset: mostrar las primeras filas del DataFrame para obtener una vista previa de los datos.
+* usamos funciones como head(), info() y describe() para obtener información sobre las columnas, tipos de datos, estadísticas resumidas, etc
+* se Realiza una limpieza inicial de los datos, que incluiye eliminar columnas irrelevantes, manejar valores faltantes o duplicados, corregir errores en los datos, etc. Asegúrate de convertir los tipos de datos adecuadamente.
+* se analiza cada variable por separado para comprender su distribución, identificar valores atípicos o anomalías, y obtener estadísticas descriptivas relevantes.
+* Utilizamos gráficos como histogramas, gráficos de barras o diagramas de dispersión, gráficos de líneas, etc.
+* se examinan relaciones entre diferentes variables para identificar patrones o tendencias para visualizar estas relaciones.
+* con técnicas estadísticas para obtener insights adicionales sobre los datos. Calcula medidas de tendencia central, dispersión y correlación. Realiza pruebas de hipótesis o análisis de varianza si es relevante para tu conjunto de datos.
+* con estas tecnicas encontramos gráficos y visualizaciones adecuadas para mostrar hallazgos de manera clara y concisa.
+* se destaca los patrones y/o relaciones más relevantes mostrados en los datos.
+  con este análisis exploratorio de datos, que es un proceso iterativo, se pueden repetir los pasos anteriores según sea necesario para profundizar y comprender la informacion que se desprende 
+* 
 
 
