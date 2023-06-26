@@ -32,9 +32,9 @@
 
 ### Mediante el conocimiento del cursado de Procesamiento de datos TSCDIA, realizamos:
 
-Creación de repositorio en GitHub.
-Desde Visual Code realizamos la creación y programación de los archivos para el proyecto.
-Programamos incluyendo librerías para la obtención de datos de la pagina relacionada a los próximos 10 meses sobre los precios medios en fin de semana (por habitación privada y un individuo) de hoteles ubicados en la ciudad de Valencia (datos de Booking). Además, incluye también otras variables como son el número de comentarios, la valoración del hotel, el código postal o el distrito de éstos.  
-Una vez realizada la extracción de datos se exportan a csv.
+* Creación de repositorio en GitHub.
+* Desde Visual Code realizamos la creación y programación de los archivos para el proyecto.
+* Programamos incluyendo librerías para la obtención de datos de la pagina relacionada a los próximos 10 meses sobre los precios medios en fin de semana (por habitación privada y un individuo) de hoteles ubicados en la ciudad de Valencia (datos de Booking). Además, incluye también otras variables como son el número de comentarios, la valoración del hotel, el código postal o el distrito de éstos.  
+* Una vez realizada la extracción de datos se exportan a csv.
 
 
