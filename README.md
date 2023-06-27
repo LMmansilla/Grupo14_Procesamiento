@@ -75,7 +75,7 @@ En base al dataset elegido para éste proyecto que contiene datos extraídos de 
   - NumPy: Una biblioteca de Python para el cálculo numérico. Proporciona una variedad de funciones y métodos para realizar operaciones matemáticas y estadísticas en los datos, como cálculos de promedio, desviación estándar y otras métricas.
   - Matplotlib y Seaborn: Bibliotecas de visualización de datos en Python. Estas herramientas permiten crear gráficos, diagramas y visualizaciones para explorar y comunicar los resultados del análisis de datos.
   - Jupyter Notebook: Una herramienta interactiva que permite combinar código, visualizaciones y texto explicativo en un entorno integrado. Es útil para realizar análisis exploratorios y documentar los pasos y resultados del análisis de datos.
-* Dentro de alguna de las problemáticas con la que nos encontramos, 
+* Dentro de alguna de las problemáticas con la que nos encontramos, a la hora de ingresar un gráfico de histograma con los precios y cantidad de hoteles los datos de los mismos se amontonaban imposibilitando la correcta visualización y comprensión, por lo que se procede a dividir por distritos.
 
 ## Conclusión
 
