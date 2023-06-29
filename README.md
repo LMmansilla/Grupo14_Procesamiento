@@ -70,7 +70,7 @@ En base al dataset elegido para éste proyecto que contiene datos extraídos de 
 * Se examinan relaciones entre diferentes variables para identificar patrones o tendencias para visualizar dichas relaciones.
 * Con técnicas estadísticas para obtener insights adicionales sobre los datos calculamos medidas de tendencia central, dispersión y correlación. Realizamos pruebas de hipótesis o análisis de varianza, si es relevante para el conjunto de datos.
 * Con estas técnicas encontramos gráficos y visualizaciones adecuadas para mostrar hallazgos de manera clara y concisa.
-* Para realizar el procesamiento y análisis de datos en profundidad sobre el caso de precios medios de hoteles en Valencia utilizamos las herramientas de software y lenguajes de programación necesarios como
+* Para realizar el procesamiento y análisis de datos en profundidad sobre el caso de precios medios de hoteles en Valencia utilizamos las herramientas de software y lenguajes de programación necesarios como:
   - Python: Un lenguaje de programación ampliamente utilizado en el análisis de datos. Python proporciona una variedad de bibliotecas y herramientas para el procesamiento y análisis de datos, como pandas, NumPy, Matplotlib, Seaborn y scikit-learn.
   - Pandas: Una biblioteca de Python que ofrece estructuras de datos y herramientas para el manejo y análisis de datos. Permite realizar operaciones como filtrado, agregación, transformación y cálculo de métricas en los datos de forma eficiente.
   - NumPy: Una biblioteca de Python para el cálculo numérico. Proporciona una variedad de funciones y métodos para realizar operaciones matemáticas y estadísticas en los datos, como cálculos de promedio, desviación estándar y otras métricas.
