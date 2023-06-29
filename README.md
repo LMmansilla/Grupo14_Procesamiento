@@ -91,3 +91,6 @@ En el contexto de un proyecto de análisis de precios medios de hoteles en Valen
 
 En resumen, los insights son los conocimientos valiosos y relevantes que se obtienen a partir del análisis de datos, y son fundamentales para tomar decisiones informadas y obtener una comprensión más completa de un problema o situación.
 
+## Video EXPLICATIVO DEL PROYECTO FINAL REALIZADO https://www.canva.com/design/DAFnK4uT-x0/hw8clSmFBRQApYABtcwx2g/watch?utm_content=DAFnK4uT-x0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
