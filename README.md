@@ -14,6 +14,7 @@
 - [Mansilla Leonardo Matias ](https://github.com/LMmansilla)
 - [Lucero Carla](https://github.com/CarlaLucerocd)
 - [Barea Silvana](https://github.com/recursosssbb)
+- [Juchniewicz Federico](https://github.com/FJISPC)
 ![Hoteles Valencia  ](https://github.com/LMmansilla/Grupo14_Procesamiento/assets/108492765/aba9bc0b-a27e-48ed-bca2-02095a406890)
 
 ### Objetivos del Proyecto
